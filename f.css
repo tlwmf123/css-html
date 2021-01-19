@@ -1,0 +1,59 @@
+body {
+    font:15px/1.8 Arial, Helvetica, sans-serif;
+  
+  }
+  .frame {
+    width: 100%;
+    margin: 0 auto;
+    
+ 
+  }
+.header{
+    padding:40px 10px;
+    text-align: center;
+    background: rgb(215, 34, 97);
+    margin-bottom: 20px;
+    
+}
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+    background: #ececf0;
+    color: rgb(185, 49, 179);
+    display: inline-block;
+    padding: 0 8px;
+    border-radius: 8px;
+    
+  }
+  .logo a{
+    text-decoration: none;
+  }
+   .logo a:hover{
+    background: rgb(20, 139, 30);
+    border-radius: 30%;
+    border-bottom:20px;
+    cursor: pointer; 
+   }
+ 
+  .content img{
+        display: flex;
+        margin:auto;
+        width: 250px;
+        height: 250px;
+        overflow: hidden;
+        margin-bottom:10px
+ }
+ .footer ul
+{
+  text-align: left;
+  
+  
+  
+ 
+}
+ 
+
+    
+    
+
+  
